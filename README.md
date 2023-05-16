@@ -1,0 +1,2 @@
+# dziennik.py
+teb 
